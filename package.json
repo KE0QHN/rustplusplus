@@ -5,7 +5,7 @@
     "main": "index.ts",
     "scripts": {
         "start": "ts-node .",
-        "preinstall": "npm i @flina/common-page",
+        "preinstall": "npm i npm-force-resolutions",
         "test": "tsc --noEmit -p ."
     },
     "repository": {
